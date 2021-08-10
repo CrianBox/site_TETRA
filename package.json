@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "cursus",
+  "version": "1.0.0",
+  "description": "TETRA project",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "citeproc": "^2.4.59",
+    "markdown-it": "^12.0.4",
+    "markdown-it-attribution-references": "^1.0.0-alpha.10",
+    "markdown-it-figure-references": "^1.0.0-alpha.9",
+    "mathjax": "3",
+    "pandoc": "^0.2.0",
+    "vuepress": "^1.8.0",
+    "vuepress-plugin-mathjax": "^1.2.8",
+    "vuepress-plugin-references": "^1.0.0-alpha.7"
+  },
+  "repository": "https://github.com/CrianBox/site_light.git",
+  "author": "Keivan Shariatmadar <keivan.shariatmadar@kuleuven.be>",
+  "dependencies": {}
+}
