@@ -1,3 +1,11 @@
 node_modules
 docs/.vuepress/dist
 .vscode
+
+02_afstelregels/
+03_systeem_theorie/
+04_regeltechniek/
+05_praktische_aanpak/
+06_filters/
+07_intelligentcontrol/
+08_cases/
